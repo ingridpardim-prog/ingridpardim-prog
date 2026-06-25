@@ -1,6 +1,5 @@
 OIE Eu Sou a Araujo 
 
-
 - Sou estudante do Alura 
 - Gosto de Música 🌸
 - Gosto de desenhar 🎨
